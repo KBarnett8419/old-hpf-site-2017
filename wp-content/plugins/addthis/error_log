@@ -1,0 +1,3 @@
+[10-Dec-2014 01:53:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/linda06271/public_html/wp-content/plugins/addthis/addthis_post_metabox.php on line 72
+[18-Dec-2016 04:25:25 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/linda06271/public_html/wp-content/plugins/addthis/addthis_post_metabox.php on line 72
+[22-May-2017 22:45:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/linda06271/public_html/wp-content/plugins/addthis/addthis_post_metabox.php on line 72

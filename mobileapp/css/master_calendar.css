@@ -1,0 +1,33 @@
+#u1089
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1157
+{
+	background: -webkit-gradient(linear, center top, center bottom, from(#E0E1FF),color-stop(100%, #000000));
+	background: -webkit-linear-gradient(top,#E0E1FF ,#000000 100%);
+	background: linear-gradient(to bottom,#E0E1FF ,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFE0E1FF, endColorstr=#FF000000, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFE0E1FF', endColorstr='#FF000000', GradientType=0)";
+	border-style: none;
+	border-color: transparent;
+}
+
+#u1157_align_to_page
+{
+	position: relative;
+}
+
+#u1158-8
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 14px;
+	position: relative;
+}
+

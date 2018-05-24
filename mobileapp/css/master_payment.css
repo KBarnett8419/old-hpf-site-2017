@@ -1,0 +1,57 @@
+#u312
+{
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.0767);
+	background: transparent url("../images/u312-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(4%, rgba(255,255,255,0.58)),to(rgba(0,0,0,0.6)));
+	background: -webkit-linear-gradient(top,rgba(255,255,255,0.58) 4%,rgba(0,0,0,0.6) );
+	background: linear-gradient(to bottom,rgba(255,255,255,0.58) 4%,rgba(0,0,0,0.6) );
+	border-style: none;
+	border-color: transparent;
+}
+
+#u375
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u375_clip
+{
+	overflow: hidden;
+}
+
+#u385-7
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u1178-11
+{
+	background-color: transparent;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+}
+
+#u1178-2
+{
+	font-size: 12px;
+	line-height: 14px;
+}
+
+#u1178-8
+{
+	font-size: 14px;
+	color: #000000;
+	font-style: italic;
+}
+
+#u1178-4,#u1178-6,#u1178-9
+{
+	font-size: 14px;
+	color: #1616B5;
+}
+

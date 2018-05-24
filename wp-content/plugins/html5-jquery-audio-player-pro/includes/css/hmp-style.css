@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hmp-empty-val{
+	background:#FF0 !important;
+	border-color:#900 !important;	
+}
+
+.hmp-special-val{
+	background:#FF0 !important;
+	border-color:#900 !important;	
+}
+
+#hmp-song-updated,#hmp-song-added{
+	color:#008001;
+	border:solid 2px #008001;
+	padding:10px 20px 10px 20px;
+	font-size: 20px;
+	font-weight: bold;
+	position: absolute;
+	background:#F9F9F9;
+	border-radius: 10px;
+	margin-top:250px;
+	margin-left:230px;
+	display:none;
+}
+#hmp-empty-val{
+	color:#F00;
+	border:solid 2px #F00;
+	padding:10px 20px 10px 20px;
+	font-size: 20px;
+	font-weight: bold;
+	position: absolute;
+	background:#F9F9F9;
+	border-radius: 10px;
+	margin-top:250px;
+	margin-left:230px;
+	display:none;		
+}
+
+#hmp-special-val{
+	color:#F00;
+	border:solid 2px #F00;
+	padding:10px 20px 10px 20px;
+	font-size: 20px;
+	font-weight: bold;
+	position: absolute;
+	background:#F9F9F9;
+	border-radius: 10px;
+	margin-top:250px;
+	margin-left:230px;
+	display:none;		
+}
+
+#hmp-ajax-loader{
+	position:absolute;
+	margin-top:250px;
+	margin-left:230px;
+	display:none;;
+}
+
+#idToSort ul{
+	margin:0px;
+	padding:0px;	
+}
+#idToSort ul li{
+	width:100%;
+	padding-bottom:15px;
+	border-bottom:solid 1px #EEEEEE;
+}
+
+#idToSort ul li:hover{
+	cursor:move;
+}
+#idToSort ul li span{
+	display:block;
+	float:left;
+	padding: 7px 7px 8px;
+}
+#idToSort ul li span.title{
+	padding:0;	
+}
+#idToSort ul li span.input-text-wrap{
+	padding:0 !important;
+	margin-left:0;
+	width:82%;	
+}
+.inline-edit-row{
+	width:100%;
+}
+.inline-edit-row fieldset{
+	width:33% !important;	
+}
+.st_upload_button {
+	background: white;
+	border: solid 1px #CCC;
+	cursor: pointer;
+}

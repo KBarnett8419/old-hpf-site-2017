@@ -1,0 +1,34 @@
+.version.index /* version checker */
+{
+	color: #0000F9;
+	background-color: #DF923D;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 452px;
+	min-height: 970px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.ie #page
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 452px;
+}
+

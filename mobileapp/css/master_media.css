@@ -1,0 +1,28 @@
+#u799
+{
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.039650000000000005);
+	background: transparent url("../images/u799-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(4%, rgba(255,255,255,0.34)),to(rgba(0,0,0,0.27)));
+	background: -webkit-linear-gradient(top,rgba(255,255,255,0.34) 4%,rgba(0,0,0,0.27) );
+	background: linear-gradient(to bottom,rgba(255,255,255,0.34) 4%,rgba(0,0,0,0.27) );
+	border-style: none;
+	border-color: transparent;
+}
+
+#u919-8,#u920-8,#u921-8,#u922-8
+{
+	background-color: transparent;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+}
+
+#u541,#u543,#u545,#u547
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+

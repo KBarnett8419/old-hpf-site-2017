@@ -1,0 +1,72 @@
+.version.calendar_events /* version checker */
+{
+	color: #0000E2;
+	background-color: #3BAC9E;
+}
+
+.html
+{
+	background-color: #DEE2FF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 460px;
+	min-height: 644px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #DEE2FF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u1089
+{
+	z-index: 2;
+	width: 415px;
+	min-height: 505px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 24px;
+}
+
+#u1157
+{
+	z-index: 3;
+	min-height: 69px;
+	padding-bottom: 31px;
+}
+
+#u1157_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 460px;
+	left: -100px;
+}
+
+#u1158-8
+{
+	z-index: 4;
+	width: 288px;
+	min-height: 37px;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 188px;
+}
+
+#u1157-bw
+{
+	z-index: 3;
+	min-height: 69px;
+	margin-top: 544px;
+}
+
+body
+{
+	position: relative;
+	min-width: 460px;
+}
+

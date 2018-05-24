@@ -1,0 +1,90 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.higherpurposefellowship.com" resolutions="1x" timestamp="1443980690016">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_order-dvd.css" crc="64289487" ref="dvd"/>
+    <file name="master_information.css" crc="4184885464" ref="contact"/>
+    <file name="master_payment.css" crc="90130265" ref="contributions"/>
+    <file name="master_calendar.css" crc="65959582" ref="calendar-events"/>
+    <file name="master_media.css" crc="38491019" ref="video"/>
+    <file name="master_prayer.css" crc="257487173" ref="prayer-request"/>
+    <file name="master_pastoral-staff.css" crc="367214729" ref="leadership-team"/>
+    <file name="dvd.css" crc="4200779362" ref="dvd"/>
+    <file name="contact.css" crc="3783176746" ref="contact"/>
+    <file name="calendar-events.css" crc="3795561630" ref="calendar-events"/>
+    <file name="leadership-team.css" crc="4118884671" ref="leadership-team"/>
+    <file name="video.css" crc="369218200" ref="video"/>
+    <file name="contributions.css" crc="103564759" ref="contributions"/>
+    <file name="prayer-request.css" crc="186870095" ref="prayer-request"/>
+    <file name="index.css" crc="4192178749" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>untitled-2:index:contributions:prayer-request:video:contact:leadership-team:dvd:calendar-events"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>untitled-2:index:contributions:prayer-request:video:contact:leadership-team:dvd:calendar-events"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>index:prayer-request:contact:dvd"/>
+    <file name="form_check.php" crc="277267350" ref="phone>index:prayer-request:contact:dvd"/>
+    <file name="form_throttle.php" crc="3908387251" ref="phone>index:prayer-request:contact:dvd"/>
+    <file name="form_process.php" crc="24249335" ref="phone>index:prayer-request:contact:dvd"/>
+    <file name="form-u100.php" crc="4072891813" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>untitled-2:contributions:prayer-request:video:contact:dvd:calendar-events"/>
+    <file name="museredirect.js" crc="40941066" ref="index"/>
+    <file name="form-u473.php" crc="134839132" ref="prayer-request"/>
+    <file name="form-u610.php" crc="300611756" ref="contact"/>
+    <file name="form-u1094.php" crc="4273385614" ref="dvd"/>
+  </folder>
+  <folder name="images">
+    <file name="u102-17.png" crc="3904437901" ref="phone>index"/>
+    <file name="u102-17-r.png" crc="174039896" ref="phone>index"/>
+    <file name="u102-17-m.png" crc="4087376994" ref="phone>index"/>
+    <file name="u102-17-fs.png" crc="450571855" ref="phone>index"/>
+    <file name="pasted image 101x135.jpg" crc="4144943135" seo="true" ref="phone>index:phone>untitled-2"/>
+    <file name="u312-grad.png" crc="3776617724" ref="contributions"/>
+    <file name="pasted image 1920x1200.jpg" crc="3889250715" seo="true" ref="contributions"/>
+    <file name="u385-7.png" crc="512256517" ref="contributions"/>
+    <file name="u466-7.png" crc="512256517" ref="prayer-request"/>
+    <file name="pasted image 1024x768-crop-u468.jpg" crc="4091617644" ref="prayer-request"/>
+    <file name="u489-17.png" crc="185260647" ref="prayer-request"/>
+    <file name="u489-17-r.png" crc="4223684210" ref="prayer-request"/>
+    <file name="u489-17-m.png" crc="38786041" ref="prayer-request"/>
+    <file name="u489-17-fs.png" crc="3858622238" ref="prayer-request"/>
+    <file name="u490-4.png" crc="434339651" ref="prayer-request"/>
+    <file name="u464-grad.png" crc="362405371" ref="prayer-request"/>
+    <file name="u799-grad.png" crc="250190983" ref="video"/>
+    <file name="u798-grad.png" crc="3812051542" ref="contact"/>
+    <file name="pasted image 101x1352.jpg" crc="4144943135" seo="true" ref="contact"/>
+    <file name="u748-grad.png" crc="4181884850" ref="contact"/>
+    <file name="social_facebook_box_blue-u791.png" crc="265476232" ref="contact"/>
+    <file name="twitter_logoupdatehints-u774.png" crc="404479935" ref="contact"/>
+    <file name="linkedin-button-u779.png" crc="3985423034" ref="contact"/>
+    <file name="pinterest_button-u768.png" crc="323024882" ref="contact"/>
+    <file name="u797-grad.png" crc="3788576247" ref="contact"/>
+    <file name="u621-17.png" crc="3956030821" ref="contact"/>
+    <file name="u621-17-r.png" crc="206791689" ref="contact"/>
+    <file name="u621-17-m.png" crc="3967465094" ref="contact"/>
+    <file name="u621-17-fs.png" crc="3800227710" ref="contact"/>
+    <file name="leadership page.jpg" crc="337981020" seo="true" ref="leadership-team"/>
+    <file name="dvd-video_bottom-side.jpg" crc="3794597514" seo="true" ref="dvd"/>
+    <file name="dvd-video-logosvg-u1124.png" crc="468638309" ref="dvd"/>
+    <file name="u1106-17.png" crc="40174598" ref="dvd"/>
+    <file name="u1106-17-r.png" crc="3779059036" ref="dvd"/>
+    <file name="u1106-17-m.png" crc="320826187" ref="dvd"/>
+    <file name="u1106-17-fs.png" crc="4147433635" ref="dvd"/>
+    <file name="u887-grad.png" crc="92406039" ref="dvd"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4085509139" ref="phone>untitled-2:phone>index"/>
+      <file name="untitled-2.css" crc="4019168963" ref="phone>untitled-2"/>
+      <file name="index.css" crc="4054381673" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4288649856" seo="true" mt="1420682034442" redirect="true"/>
+    <file name="untitled-2.html" crc="215448906" seo="true" mt="1421624719796" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4025422775" seo="true" mt="1422197049843" redirect="false"/>
+  <file name="contributions.html" crc="4157375465" seo="true" mt="1443980618701" redirect="true"/>
+  <file name="prayer-request.html" crc="515528915" seo="true" mt="1428298233664" redirect="true"/>
+  <file name="video.html" crc="370291254" seo="true" mt="1428298295526" redirect="true"/>
+  <file name="contact.html" crc="494869121" seo="true" mt="1428297426276" redirect="true"/>
+  <file name="leadership-team.html" crc="516789504" seo="true" mt="1428292663352" redirect="true"/>
+  <file name="dvd.html" crc="4072379745" seo="true" mt="1428292596230" redirect="true"/>
+  <file name="calendar-events.html" crc="6820269" seo="true" mt="1428298137321" redirect="true"/>
+</manifest>

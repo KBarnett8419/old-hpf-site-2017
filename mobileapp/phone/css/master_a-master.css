@@ -1,0 +1,30 @@
+#u95-2
+{
+	font-size: 18px;
+	line-height: 22px;
+	font-weight: bold;
+}
+
+#u98
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u90
+{
+	border-width: 8px;
+	border-style: solid;
+	border-color: #2E3192;
+	background-color: transparent;
+	position: relative;
+}
+
+#u95-10,#u96-9
+{
+	background-color: transparent;
+	position: relative;
+}
+

@@ -1,0 +1,80 @@
+.version.contributions /* version checker */
+{
+	color: #000006;
+	background-color: #2C45D7;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 460px;
+	min-height: 618px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u312
+{
+	z-index: 2;
+	height: 126px;
+}
+
+#u312-bw
+{
+	z-index: 2;
+	margin-top: 492px;
+	height: 126px;
+}
+
+#u375
+{
+	z-index: 3;
+	width: 660px;
+	margin-right: -10000px;
+	left: -100px;
+}
+
+#u375_clip
+{
+	width: 660px;
+	height: 555px;
+}
+
+#u375_img
+{
+	margin: 1px -61px 67px -58px;
+}
+
+#u385-7
+{
+	z-index: 5;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 38px;
+}
+
+#u1178-11
+{
+	z-index: 12;
+	width: 420px;
+	min-height: 83px;
+	margin-right: -10000px;
+	margin-top: 504px;
+	left: 20px;
+}
+
+body
+{
+	position: relative;
+	min-width: 460px;
+}
+

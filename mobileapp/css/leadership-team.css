@@ -1,0 +1,52 @@
+.version.leadership_team /* version checker */
+{
+	color: #0000F5;
+	background-color: #81313F;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 346px;
+	min-height: 616.6909090909089px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	margin-top: -11px;
+	width: 0.01px;
+}
+
+#u865
+{
+	z-index: 2;
+	width: 446px;
+}
+
+#u865_clip
+{
+	width: 446px;
+	height: 1658px;
+}
+
+#u865_img
+{
+	margin-bottom: -318px;
+}
+
+body
+{
+	position: relative;
+	min-width: 346px;
+}
+
